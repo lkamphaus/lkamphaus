@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">I am a passionate frontend developer that brings creativity, collaboration, and unique solutions to every project I work on.</h3>
+<p align="center">I am a passionate frontend developer that brings creativity, collaboration, and unique solutions to every project I work on.</p>
 
 <h3 align="left">Overview:</h3>
 <p align="left">
-[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkamphaus)](https://github.com/lkamphaus/github-readme-stats)
+  
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkamphaus&layout=compact)](https://github.com/lkamphaus/github-readme-stats)
 </p>
+
+[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkamphaus)](https://github.com/lkamphaus/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
