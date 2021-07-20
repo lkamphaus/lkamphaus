@@ -2,7 +2,9 @@
 <p align="center">I am a passionate frontend developer that brings creativity, collaboration, and unique solutions to every project I work on.</p>
 
 <h3 align="left">Overview:</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisberko&layout=compact)](https://github.com/lkamphaus/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkamphaus&layout=compact)](https://github.com/lkamphaus/github-readme-stats)
 
 [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkamphaus)](https://github.com/lkamphaus/github-readme-stats)
