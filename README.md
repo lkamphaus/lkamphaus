@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <p align="center">I am a passionate frontend developer that brings creativity, collaboration, and unique solutions to every project I work on.</p>
 
-![](https://komarev.com/ghpvc/?username=lkamphaus)
-
 <h3 align="left">Overview:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkamphaus&layout=compact)](https://github.com/lkamphaus/github-readme-stats)
