@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
-<p align="center">I am a passionate frontend developer that brings creativity, collaboration, and unique solutions to every project I work on.</p>
 
 <h3 align="left">Overview:</h3>
 
